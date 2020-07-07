@@ -1,14 +1,13 @@
   
-*.iml
-.idea
-app/*
-.gradle
-/local.properties
-/.idea/caches/build_file_checksums.ser
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
+ZPermission/*.iml
+ZPermission/.idea
+ZPermission/app/*
+ZPermission/local.properties
+ZPermission/.idea/caches/build_file_checksums.ser
+ZPermission/.idea/libraries
+ZPermission/.idea/modules.xml
+ZPermission/.idea/workspace.xml
+ZPermission/.DS_Store
+ZPermission/build
+ZPermission/captures
+ZPermission/.externalNativeBuild
